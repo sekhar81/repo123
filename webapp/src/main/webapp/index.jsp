@@ -1,12 +1,4 @@
-top goa is for me get a job 
-so for that u have to learn 
-as much as practice is main important 
-so dont h=neglect the time 
-
-ALL THE BEST FOR YOUR JOB KEEP LEARN
-
-from 
-bhargav 
-
-
+hello sekhar you have successfully did the jenkins job 
+now you can go ahead with web hooks
+<h1> all the best to your future practice</h1>
 
